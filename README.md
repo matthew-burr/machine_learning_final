@@ -1,0 +1,2 @@
+# Machine Learning Final
+This is the final project for the "Introduction to Machine Learning: Supervised Learning" project offered as part of the Master of Data Science curriculum at CU Boulder. In this project, I will apply some of the techniques learned in the class to develop a machine learning model for use in predicting an outcome based on several predictors of a data set. The code is shared here as part of the requirements for completing the final.
